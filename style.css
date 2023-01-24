@@ -97,8 +97,8 @@ ul li:nth-child(even) a {
 
 ul li:nth-child(3n) a {
   position: relative;
-  top: 5px;
-  background: #cfc;
+  top: -5px;
+  background: #ccf;
 }
 
 
